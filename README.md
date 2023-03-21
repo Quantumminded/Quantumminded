@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Valpiccola](https://github.com/Valpiccola)<br>👯 I’m looking to collaborate on any project that allows me to improve my skills<br>🌱 I’m currently attending a full stack developer bootcamp<br>⚡ Fun fact about me i love to climb 🧗‍♂️ 
+🔭 I’m currently working on [Valpiccola](https://github.com/Valpiccola)<br>👯 I’m looking to collaborate on any project that allows me to improve my skills<br>🌱 I’m a full stack developer bootcamp graduate 🎓 <br>⚡ Fun fact about me i love to climb 🧗‍♂️ 
 
 
 ## 🌐 Socials:
