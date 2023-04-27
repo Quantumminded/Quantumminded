@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working [Valpiccola](https://github.com/Valpiccola)<br>👯 I’m looking to collaborate on any project that allows me to improve my skills<br>👨‍💻 All of my projects are available at https://stringhetti.netlify.app/<br>📄 Know about my experiences https://stringhetti.netlify.app/resume.pdf
+🔭 I’m currently working on [Valpiccola](https://github.com/Valpiccola)<br>👯 I’m looking to collaborate on any project that allows me to improve my skills<br>👨‍💻 All of my projects are available at https://stringhetti.netlify.app/<br>📄 Know about my experiences https://stringhetti.netlify.app/resume.pdf
 
 
 ## 🌐 Socials:
